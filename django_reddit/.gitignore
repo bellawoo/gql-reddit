@@ -69,4 +69,4 @@ venv.bak/
 gqlenv
 
 # IDE
-.vscode
+.vscode/
